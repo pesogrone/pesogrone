@@ -19,7 +19,7 @@
 
 🤔 I’m looking for help with mastering design patterns and architectural principles to improve the efficiency and maintainability of my code.
 
-💬 Ask me about my experiences working with WPF (Windows Presentation Foundation) and how it can be leveraged to create modern and visually appealing desktop applications.
+💬 Ask me about my experiences working with WPF (Windows Presentation Foundation) and how it can be leveraged to create modern and visually appealing desktop applications; I had an internship during 2023 that I worked with WPF(May-August). 
 
 📫 How to reach me: You can reach me via email at ronaldmbritos@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/ronaldmbritos/.
 
